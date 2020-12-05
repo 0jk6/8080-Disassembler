@@ -7,11 +7,10 @@ gcc disassembler.c -o disassemble
 ```
 Run the binary file as follows
 ```
-./disassemble "your 8080 binary file"
+./disassemble invaders.h
 ```
 
 ## Resources used:
-Resources used:
 
 Blog posts from Emulator101
 https://www.emulator101.com
