@@ -2,12 +2,23 @@
 A simple Intel 8080 microprocessor disassembler in C
 
 Compile disassembler.c file as follows
+
+Linux:
 ```
 gcc disassembler.c -o disassemble
 ```
 Run the binary file as follows
 ```
 ./disassemble invaders.h
+```
+
+Windows:
+```
+gcc disassembler.c -o disassmeble.exe
+```
+Run the executable file as follows
+```
+disassemble.exe invaders.h
 ```
 
 ## Resources used:
